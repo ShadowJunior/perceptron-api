@@ -99,3 +99,10 @@ Calculates the weighted input (linear combination).
 ## Author Context
 
 This implementation is part of a machine learning curriculum exploring foundational classification algorithms from an object-oriented perspective.
+
+
+git remote add origin https://github.com/ShadowJunior/perceptron-api.git
+git branch -M main
+git push -u origin main
+
+hands-on-housing-prediction.git
